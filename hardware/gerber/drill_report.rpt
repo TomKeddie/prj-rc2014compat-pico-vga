@@ -1,5 +1,5 @@
 Drill report for rc2014compat-pico-vga.kicad_pcb
-Created on Sun Sep 25 15:05:21 2022
+Created on Sun Sep 25 17:36:40 2022
 
 Copper Layer Stackup:
     =============================================================
@@ -12,13 +12,13 @@ Drill file 'rc2014compat-pico-vga.drl' contains
     =============================================================
     T1  0.350mm  0.0138"  (10 holes)
     T2  0.350mm  0.0138"  (9 holes)
-    T3  0.500mm  0.0197"  (79 holes)
+    T3  0.500mm  0.0197"  (78 holes)
     T4  0.500mm  0.0197"  (2 holes)  (with 2 slots)
     T5  0.600mm  0.0236"  (2 holes)  (with 2 slots)
     T6  1.000mm  0.0394"  (103 holes)
     T7  3.200mm  0.1260"  (2 holes)
 
-    Total plated holes count 207
+    Total plated holes count 206
 
 
 Not plated through holes are merged with plated holes
