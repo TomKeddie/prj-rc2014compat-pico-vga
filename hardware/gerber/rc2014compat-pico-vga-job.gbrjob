@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "6.0.7-f9a2dced07~116~ubuntu22.04.1"
     },
-    "CreationDate": "2022-09-25T17:36:41-07:00"
+    "CreationDate": "2022-10-07T14:15:52-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,53 +34,38 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "rc2014compat-pico-vga-CuTop.gtl",
+      "Path": "rc2014compat-pico-vga-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rc2014compat-pico-vga-CuBottom.gbl",
+      "Path": "rc2014compat-pico-vga-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rc2014compat-pico-vga-PasteBottom.gbp",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "rc2014compat-pico-vga-PasteTop.gtp",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "rc2014compat-pico-vga-SilkTop.gto",
+      "Path": "rc2014compat-pico-vga-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rc2014compat-pico-vga-SilkBottom.gbo",
+      "Path": "rc2014compat-pico-vga-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rc2014compat-pico-vga-MaskBottom.gbs",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "rc2014compat-pico-vga-MaskTop.gts",
+      "Path": "rc2014compat-pico-vga-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "rc2014compat-pico-vga-EdgeCuts.gm1",
-      "FileFunction": "Profile",
-      "FilePolarity": "Positive"
+      "Path": "rc2014compat-pico-vga-B_Mask.gbs",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
-      "Path": "rc2014compat-pico-vga-CmtUser.gbr",
-      "FileFunction": "Other,User",
+      "Path": "rc2014compat-pico-vga-Edge_Cuts.gm1",
+      "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
   ],
